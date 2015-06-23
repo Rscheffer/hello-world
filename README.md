@@ -4,4 +4,6 @@ My first repository on GitHub - DevOps class
 #
 This is not a test...this is a drill.
 #
-I like the beach!
+I like the beach! 
+Sharks are cool too.
+
